@@ -4,6 +4,8 @@ title: "s deploy 忽略某些文件部署到代码包"
 date: "2024-06-21"
 category: "expertConsultation"
 description: "根据您的问题，您想了解如何使用`serverless-devs s deploy`命令时忽略某些文件部署到代码包。这通常涉及到配置`.fcignore`文件来指定应排除的文件或目录。根据提供的知识内容，特别是第1篇参考内容，我可以为您提供详细的解答。### 分析问题原因在使用`serverless-"
+tags: ["serverless-devs","部署","忽略","文件","代码","包","deploy"]
+keywords: ["serverless-devs","部署","忽略","文件","代码","包","deploy"]
 ---
 
 ## 用户问题 ： 
@@ -55,8 +57,6 @@ description: "根据您的问题，您想了解如何使用`serverless-devs s de
 
 * 专家经验：关于.fcignore使用方法 
  
- * 专家经验：TD serverless dev 本地部署 
- 
  * 专家经验：Serverless Devs 和 fc3 组件的关系 
 
 
@@ -66,7 +66,12 @@ description: "根据您的问题，您想了解如何使用`serverless-devs s de
 
 ## <font color="#FF0000">答疑服务说明：</font> 
 
-本内容经由技术专家审阅的用户问答的镜像生成，我们提供了<font color="#FF0000">专家智能答疑服务</font>，在<font color="#FF0000">页面的右下的浮窗”专家答疑“</font>。您也可以访问 : [全局专家答疑](https://answer.opensource.alibaba.com/docs/intro) 。 咨询其他产品的的问题
+本内容经由技术专家审阅的用户问答的镜像生成，我们提供了<font color="#FF0000">专家智能答疑服务</font>,使用方法：
+用法1： 在<font color="#FF0000">页面的右下的浮窗”专家答疑“</font>。
+用法2： 点击[专家答疑页](https://answer.opensource.alibaba.com/docs/intro)（针对部分网站不支持插件嵌入的情况）
+### 另：
 
+
+有其他开源产品的使用问题？[点击访问阿里AI专家答疑服务](https://answer.opensource.alibaba.com/docs/intro)。
 ### 反馈
 如问答有错漏，欢迎点：[差评](https://ai.nacos.io/user/feedbackByEnhancerGradePOJOID?enhancerGradePOJOId=15848)给我们反馈。

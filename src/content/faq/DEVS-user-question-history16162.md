@@ -4,6 +4,8 @@ title: "serverless配置部署wordpress，构建自己的博客步骤"
 date: "2024-07-09"
 category: "expertConsultation"
 description: "虽然在提供的知识中没有直接关于如何使用Serverless Devs部署WordPress的具体步骤，但我们可以基于Serverless Devs的一般部署流程和对fc3组件的理解来推测构建WordPress博客的大概步骤。请注意，以下步骤是基于通用理解和逻辑推理，实际操作时可能需要根据最新的文档或"
+tags: ["serverless-devs","serverless","配置","部署","wordpress","构建","博客"]
+keywords: ["serverless-devs","serverless","配置","部署","wordpress","构建","博客"]
 ---
 
 ## 用户问题 ： 
@@ -74,7 +76,12 @@ WordPress作为一个流行的开源博客平台，其传统部署方式通常�
 
 ## <font color="#FF0000">答疑服务说明：</font> 
 
-本内容经由技术专家审阅的用户问答的镜像生成，我们提供了<font color="#FF0000">专家智能答疑服务</font>，在<font color="#FF0000">页面的右下的浮窗”专家答疑“</font>。您也可以访问 : [全局专家答疑](https://answer.opensource.alibaba.com/docs/intro) 。 咨询其他产品的的问题
+本内容经由技术专家审阅的用户问答的镜像生成，我们提供了<font color="#FF0000">专家智能答疑服务</font>,使用方法：
+用法1： 在<font color="#FF0000">页面的右下的浮窗”专家答疑“</font>。
+用法2： 点击[专家答疑页](https://answer.opensource.alibaba.com/docs/intro)（针对部分网站不支持插件嵌入的情况）
+### 另：
 
+
+有其他开源产品的使用问题？[点击访问阿里AI专家答疑服务](https://answer.opensource.alibaba.com/docs/intro)。
 ### 反馈
 如问答有错漏，欢迎点：[差评](https://ai.nacos.io/user/feedbackByEnhancerGradePOJOID?enhancerGradePOJOId=16164)给我们反馈。

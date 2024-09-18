@@ -4,6 +4,8 @@ title: "springboot 项目快速迁移到函数计算上？"
 date: "2024-07-09"
 category: "expertConsultation"
 description: "要将一个Spring Boot项目快速迁移到阿里云函数计算（Function Compute，简称FC）上，可以遵循以下步骤：### 1. 准备工作确保你已经具备以下条件：- **阿里云账号**：你需要拥有一个阿里云账号并开通[阿里云FC服务](https://www.aliyun.com/prod"
+tags: ["serverless-devs","springboot","函数","计算","迁移","快速","项目"]
+keywords: ["serverless-devs","springboot","函数","计算","迁移","快速","项目"]
 ---
 
 ## 用户问题 ： 
@@ -69,7 +71,12 @@ cd start-springboot-v3 && s deploy -y
 
 ## <font color="#FF0000">答疑服务说明：</font> 
 
-本内容经由技术专家审阅的用户问答的镜像生成，我们提供了<font color="#FF0000">专家智能答疑服务</font>，在<font color="#FF0000">页面的右下的浮窗”专家答疑“</font>。您也可以访问 : [全局专家答疑](https://answer.opensource.alibaba.com/docs/intro) 。 咨询其他产品的的问题
+本内容经由技术专家审阅的用户问答的镜像生成，我们提供了<font color="#FF0000">专家智能答疑服务</font>,使用方法：
+用法1： 在<font color="#FF0000">页面的右下的浮窗”专家答疑“</font>。
+用法2： 点击[专家答疑页](https://answer.opensource.alibaba.com/docs/intro)（针对部分网站不支持插件嵌入的情况）
+### 另：
 
+
+有其他开源产品的使用问题？[点击访问阿里AI专家答疑服务](https://answer.opensource.alibaba.com/docs/intro)。
 ### 反馈
 如问答有错漏，欢迎点：[差评](https://ai.nacos.io/user/feedbackByEnhancerGradePOJOID?enhancerGradePOJOId=16154)给我们反馈。
